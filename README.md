@@ -1,5 +1,8 @@
 # relation
 
+!!!!!!!!! DEPRECATED REPO !!!!!!!!!!
+
+ACTUAL: https://github.com/surfstudio/SurfGear/tree/dev/packages/relation
 The stream representation of the relations of the entities and widget utilities
 
 ## Usage
